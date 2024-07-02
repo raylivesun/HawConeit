@@ -1,0 +1,26 @@
+{
+
+ "Via querystring":{
+    "keyword":"AI"
+  },
+  "Via X-Api-Key": "7a2f3db536d94d0c9b731b3354a6d4bf",
+  "Via Authorization": "7a2f3db536d94d0c9b731b3354a6d4bf",
+  "Via X-Forwarded-For": "192.168.1.1, 198.51.100.1",
+  "Via X-Forwarded-Proto": "https",
+  "Via X-Forwarded-Port": "443",
+  "Via X-Forwarded-Host": "api.example.com",
+  "GET https": "https://newsapi.org/v2/everything?q=keyword&apiKey=7a2f3db536d94d0c9b731b3354a6d4bf",
+  "Via X-Api-Key HTTP header": {
+  "X-Api-Key": "7a2f3db536d94d0c9b731b3354a6d4bf",
+  "Via Authorization HTTP header": {
+    "Authorization": "7a2f3db536d94d0c9b731b3354a6d4bf"
+   }
+  }
+}
+
+
+
+
+
+
+

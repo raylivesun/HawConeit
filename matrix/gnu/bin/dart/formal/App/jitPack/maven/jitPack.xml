@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+    <dependency>
+        <groupId>com.github.User</groupId>
+        <artifactId>Repo</artifactId>
+        <version>Tag</version>
+    </dependency>
+</repositories>

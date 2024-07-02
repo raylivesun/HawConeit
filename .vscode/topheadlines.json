@@ -1,0 +1,308 @@
+{
+
+    "status": "ok",
+    "totalResults": 35,
+    
+    "articles": [
+        -1,
+        {
+            
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "US, Europe warn Hezbollah to ease strikes on Israel and back off from wider Mideast war - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/06/30/us-europe-warn-hezbollah-to-ease-strikes-on-israel-and-back-off-from-wider-mideast-war-00165935",
+            "urlToImage": null,
+            "publishedAt": "2024-06-30T06:00:00Z",
+            "content": null
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Woj: Paul George wants a fourth year that the Clippers haven’t offered | SportsCenter - ESPN",
+            "description": "Adrian Wojnarowski joins SportsCenter to discuss Paul George and LeBron James opting out of their contracts ahead of NBA free agency and what it means for th...",
+            "url": "https://www.youtube.com/watch?v=M9-cag0648A",
+            "urlToImage": "https://i.ytimg.com/vi/M9-cag0648A/maxresdefault.jpg",
+            "publishedAt": "2024-06-30T05:16:40Z",
+            "content": null
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "John Schuhmann",
+            "title": "2024 Free Agency: Options and qualifying offers - NBA.com",
+            "description": "NBA players and teams made decisions on contract options, qualifying offers and contracts that were either partially or non-guaranteed before free agency.",
+            "url": "https://www.nba.com/news/2024-free-agency-options-and-qualifying-offers",
+            "urlToImage": null,
+            "publishedAt": "2024-06-30T05:15:00Z",
+            "content": "Before free agency officially tips off at 6 p.m. ET on Sunday, players and teams had to make decisions on contract options, qualifying offers and contracts that were either partially or non-guarantee… [+5595 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Alex Pereira KOs Jiri Prochazka to Defend the Light Heavyweight Belt at UFC 303! 🏆 - UFC",
+            "description": "Watch Alex Pereira's KO finish of Jiri Prochazka at UFC 303!Order UFC PPV on ESPN+ ➡️ https://ufc.ac/3NKBvmx (U.S. only)Order UFC PPV ➡️ https://ufc.com/ppv ...",
+            "url": "https://www.youtube.com/watch?v=xhKMwGozbic",
+            "urlToImage": "https://i.ytimg.com/vi/xhKMwGozbic/maxresdefault.jpg",
+            "publishedAt": "2024-06-30T05:08:39Z",
+            "content": null
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "KOAT New Mexico"
+            },
+            "author": "Vince Rodriguez",
+            "title": "People trapped in vehicles due to flash flooding near Ruidoso - KOAT New Mexico",
+            "description": "The National Weather Service says multiple people were reported trapped in vehicles due to flash flooding.",
+            "url": "https://www.koat.com/article/ruidoso-flash-flood-emergency-people-trapped/61461530",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/02495b10-f879-4542-a889-ff8b58341a82/86e092e8-0f14-4f9b-b3ec-1506798e8ff1.jpg?crop=0.530xw:0.530xh;0,0.261xh&resize=1200:*",
+            "publishedAt": "2024-06-30T04:24:00Z",
+            "content": "Evacuations are underway after a flash flood emergency was issued for Ruidoso. \r\nThe National Weather Service reports there are multiple people trapped in vehicles on Paradise Canyon Road near Cedar … [+249 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "NASA assures that Boeing Starliner astronauts are not 'stranded' on ISS - New York Post ",
+            "description": "“The crew is not in any danger, and there’s no increased risk when we decide to bring Suni and Butch back to Earth.”",
+            "url": "https://nypost.com/2024/06/30/us-news/nasa-assures-that-boeing-starliner-astronauts-are-not-stranded-on-international-space-station/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/84710921.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-30T04:15:00Z",
+            "content": "NASA officials said that despite an indefinite delay in their return to Earth, the Boeing Starliner crew stuck at the International Space Station due to mechanical issues with their spacecraft are no… [+3807 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "N. Kirkpatrick",
+            "title": "Tropical Storm Beryl tracker: Map and projected storm path - The Washington Post",
+            "description": "Beryl is expected to bring heavy rain, hurricane-force winds, and dangerous storm surge and surf to the Lesser Antilles.",
+            "url": "https://www.washingtonpost.com/weather/2024/06/29/beryl-tracker-map/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X45WKTDHG5GXFHUYX4O3FH3VKE.png&w=1440",
+            "publishedAt": "2024-06-30T04:08:00Z",
+            "content": "Tropical storm Beryl, is expected to bring heavy rain, dangerous winds, and life-threatening storm surgetothe Windward Islands, the southern part of the Lesser Antilles island group in the Caribbean … [+768 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BARBARA SURK, HELENA ALVES",
+            "title": "France election 2024: Voters to cast ballots in first round of snap polls - The Associated Press",
+            "description": "Voters across mainland France are casting ballots in the first round of a exceptional parliamentary election. The two-round vote could put France’s government in the hands of far-right parties for the first time since the Nazi era. The outcome could impact Eu…",
+            "url": "https://apnews.com/article/france-election-far-right-macron-f07061a929ed8eaad0e714e948159cab",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c4bd5fc/2147483647/strip/true/crop/5000x2813+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Fb8%2F02b48ba0559e761c91f397060ef9%2F128f72cc37d64b798b2aae9a6607b242",
+            "publishedAt": "2024-06-30T04:00:00Z",
+            "content": "PARIS (AP) Voters across mainland France began casting ballots Sunday in the first round of exceptional parliamentary election that could put Frances government in the hands of nationalist, far-right… [+4323 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "STEVE PEOPLES",
+            "title": "A private call of top Democrats fuels more insider anger about Biden's debate performance - The Associated Press",
+            "description": "A sense of deep concern is growing among some Democratic officials that leaders inside Joe Biden’s campaign and the Democratic National Committee are not taking seriously enough the impact of the president’s troubling debate performance. DNC Chairman Jaime Ha…",
+            "url": "https://apnews.com/article/bidendebatetrumpdnc-aa08cc2b556b315e728d1e9c2bf81be9",
+            "urlToImage": "https://dims.apnews.com/dims4/default/46f6256/2147483647/strip/true/crop/5066x2850+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F43%2F5a120564641e79a5d04b4e424164%2F5d7c3a885b24436eaad3487c93d5c596",
+            "publishedAt": "2024-06-30T03:56:00Z",
+            "content": "NEW YORK (AP) A sense of concern is growing inside the top ranks of the Democratic Party that leaders of Joe Bidens campaign and the Democratic National Committee are not taking seriously enough the … [+5309 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Ryan Gajewski",
+            "title": "NFL Star Christian McCaffrey Marries Olivia Culpo - Hollywood Reporter",
+            "description": "The couple were wed in the former Miss Universe winner's home state after getting engaged last year.",
+            "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/christian-mccaffrey-marries-olivia-culpo-1235935693/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/GettyImages-1464829340.jpg?w=1024",
+            "publishedAt": "2024-06-30T03:08:41Z",
+            "content": "Christian McCaffrey and Olivia Culpo took advantage of the NFL offseason to tie the knot. \r\nThe couple got married Saturday during a wedding ceremony in Watch Hill, Rhode Island, with Vogue announcin… [+1398 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Ruby Miranda",
+            "title": "Struggle Ends For 3 Zodiac Signs On June 30, 2024 - YourTango",
+            "description": "It's June 30, 2024, and three zodiac signs cut ties from the restrictions of life that have hurt their progress. Here's how the Moon and Pluto help them to break free from struggle at long last.",
+            "url": "https://www.yourtango.com/2024375420/zodiac-signs-struggle-ends-june-30-2024",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-06/zodiac-signs-break-free-struggle-june-30-2024.png",
+            "publishedAt": "2024-06-30T02:05:06Z",
+            "content": "It's June 30, 2024, and it's time to set aside those struggles and get on with life. Sunday's horoscope tells us that the transit known as Moon square Pluto is in town. For three zodiac signs, the po… [+4563 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Factory Activity Shrinks Again in Warning to Economy - Bloomberg",
+            "description": "China’s factory activity contracted for a second straight month in June, signaling weakness in an area that Beijing is betting on to drive the economy.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-30/china-factory-activity-shrinks-again-in-warning-to-economy",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEU92xIzmebI/v0/1200x800.jpg",
+            "publishedAt": "2024-06-30T01:51:00Z",
+            "content": "Chinas factory activity contracted for a second straight month in June, signaling weakness in an area that Beijing is betting on to drive the economy. \r\nThe official manufacturing purchasing manager … [+204 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Elizabeth Palmer",
+            "title": "Iran to hold presidential runoff election between reformist Pezeshkian and hard-liner Jalili - CBS News",
+            "description": "Masoud Pezeshkian and Saeed Jalili are headed to a runoff presidential election on Friday to replace the late hard-line President Ebrahim Raisi, who died in a helicopter crash in May.",
+            "url": "https://www.cbsnews.com/news/iran-presidential-election-pakeshkian-jalili/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/29/417236f6-2351-49d8-acb8-6f18578ba6ad/thumbnail/1200x630/329e848e1c1ce05f3054a5af3d992d62/gettyimages-2159148133.jpg?v=a23cb4bdf4fa7f3cb72e5118085577f9",
+            "publishedAt": "2024-06-30T01:31:39Z",
+            "content": "While ballots are still being counted in Iran's presidential election on Saturday, the sole reformist candidate, Masoud Pezeshkian, is making an unexpectedly strong showing. Close behind is the hardl… [+4234 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "The Supreme Court vs. the executive branch - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/06/29/supreme-court-chevron-regulations-tech-environment",
+            "urlToImage": null,
+            "publishedAt": "2024-06-30T01:21:02Z",
+            "content": null
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gregory Krieg, MJ Lee, Jeff Zeleny, Arlette Saenz, Betsy Klein, Camila DeChalus",
+            "title": "Donors fret over path forward after Biden’s debate performance - CNN",
+            "description": "Less than 48 hours after President Joe Biden’s alarming debate performance, the Democratic donor class is in crisis, racked by anxiety over what — if anything — the party’s wealthiest backers can do to reinvigorate or replace Biden, whose campaign has commiss…",
+            "url": "https://www.cnn.com/2024/06/29/politics/democratic-donors-biden-debate-election/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/dle/2024-06-28/26d30f15-7612-4fb2-b687-8c86a423e56c.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-30T01:18:00Z",
+            "content": "Less than 48 hours after President Joe Bidens alarming debate performance, the Democratic donor class is in crisis, racked by anxiety over what if anything the partys wealthiest backers can do to rei… [+11111 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "Upstate NY teen fatally shot by police after allegedly flashing pellet gun: 'Oh my god!' - New York Post ",
+            "description": "An upstate New York city is outraged after 13-year-old boy was shot and killed in a struggle with cops after allegedly flashing a pellet gun, according to police.",
+            "url": "https://nypost.com/2024/06/29/us-news/13-year-old-boy-fatally-shot-by-upstate-ny-cops-after-flashing-pellet-gun/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/84706337.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-30T01:16:00Z",
+            "content": "An upstate New York city is outraged after a 13-year-old boy was shot and killed in a struggle with cops after allegedly flashing a pellet gun, according to police.\r\nNyah Mway was fatally shot by a U… [+3787 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Glastonbury: A-list stars turn out for ‘awesome’ Coldplay show - BBC.com",
+            "description": "They duetted with Michael J Fox, and serenaded Michael Eavis, in an all-out assault on the senses.",
+            "url": "https://www.bbc.com/news/articles/c0kr82k58qqo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e37a/live/fd978f20-3670-11ef-9812-47c6036a038a.jpg",
+            "publishedAt": "2024-06-30T00:37:38Z",
+            "content": "By Mark Savage, Music Correspondent\r\nThe band played for two hours, racing through hits like Fix You and Yellow\r\nIs there such a thing as a band thats too big for Glastonbury?\r\nIf so, Coldplay might … [+9232 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "Leslie Brinkley",
+            "title": "State Farm seeking 30% rate hike for CA homeowners: Here's what to know - KABC-TV",
+            "description": "State Farm is the largest residential homeowners insurer in California, insuring 1 in 5 homes",
+            "url": "https://abc7.com/post/state-farm-seeking-30-rate-hike-california-homeowners/15009617/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15011730_062824-kgo-state-farm-insurance-img.jpg?w=1600",
+            "publishedAt": "2024-06-29T23:19:29Z",
+            "content": "SAN FRANCISCO -- Many California homeowners are concerned about their home insurance, and that anxiety ratcheted up on Friday when State Farm requested one of its biggest rate increases ever, a sign … [+2279 chars]"
+        },
+        -1,
+        {
+            
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke, Raquel Coronell Uribe",
+            "title": "4 killed in crash into Long Island nail salon include off-duty NYPD officer - NBC News",
+            "description": "The Suffolk County Police Department released the identities of the four people killed Friday when an SUV crashed into a Long Island nail salon.",
+            "url": "https://www.nbcnews.com/news/us-news/-duty-nypd-officer-4-dead-suv-crashes-long-island-nail-salon-rcna159603",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240629-Hawaii-Nail-Spa-Deer-Park-ch-1322-b20250.jpg",
+            "publishedAt": "2024-06-29T22:46:49Z",
+            "content": "The Suffolk County Police Department released the identities of the four people killed Friday when an SUV crashed into a Long Island nail salon.\r\nJiancai Chen, 37, of Bayside, Queens; Emilia Rennhack… [+1556 chars]"
+        }
+    ]
+}

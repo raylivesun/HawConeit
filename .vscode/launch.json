@@ -1,0 +1,157 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "CMake: Script debugging",
+            "cmakeDebugType": "script",
+            "scriptPath": "${workspaceFolder}/<...>.cmake"
+        },
+        {
+            "type": "code-d",
+            "request": "launch",
+            "name": "Debug D project",
+            "cwd": "${workspaceFolder}",
+            "program": "./executableBinaryName"
+        },
+        {
+            "name": "Dart: Attach to Process",
+            "type": "dart",
+            "request": "attach"
+        }
+
+    ],
+    "tasks": [
+        {
+            "type": "node",
+            "label": "tsc",
+            "options": {
+                "project": "tsconfig.json"
+            },
+            "args": ["--watch"],
+            "problemMatcher": {
+                "owner": "typescript",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceFolder}"
+                ],
+                "pattern": {
+                    "regexp": "^(\\S*):(\\d+):(\\d+):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "message": 4
+                }
+            }
+        
+            // Or use "npm" if you have npm installed.
+            // "npm": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "pnpm" if you have pnpm installed.
+            // "pnpm": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "yarn" if you have yarn installed.
+            // "yarn": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "lerna" if you have lerna installed.
+            // "lerna": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "bun" if you have bun installed.
+            // "bun": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "jake" if you have jake installed.
+            // "jake": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "make" if you have make installed.
+            // "make": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "gradle" if you have gradle installed.
+            // "gradle": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "dotnet watch" if you have dotnet installed.
+            // "dotnet": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "msbuild" if you have msbuild installed.
+            // "msbuild": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "sbt" if you have sbt installed.
+            // "sbt": {
+            //     "script": "watch",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+            // Or use "npm run build" if you have npm installed and "build" script defined.
+            // "npm": {
+            //     "script": "build",
+            //     "options": {
+            //         "cwd": "path/to/your/project"
+            //     }
+            // }
+        
+        }
+    ]
+}
